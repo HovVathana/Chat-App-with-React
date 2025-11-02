@@ -1,4 +1,4 @@
-# Full-Stack-NaNa-Chat-App-with-React
+# NaNa-Chat-App-with-React
 
 ## General info
 This is a chat app that is still a work in progress. Users can sign in with Google authentication and create group chat.
