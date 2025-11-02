@@ -25,10 +25,10 @@ Project is created with:
 
 ## Steps on how to clone
 #### 1: Clone this repo using this command 
-`git clone https://github.com/NaNa2005/Full-Stack-NaNa-Chat-App-with-React.git`
+`git clone https://github.com/NaNa2005/NaNa-Chat-App-with-React.git`
 
 #### 2: Enter 
-`cd Full-Stack-NaNa-Chat-App-with-React`
+`cd NaNa-Chat-App-with-React`
 
 #### 3: Next
 `npm install`
